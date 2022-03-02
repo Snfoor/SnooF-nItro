@@ -1,0 +1,10 @@
+--Extract Folder To Desktop--
+
+1- Download Python From Here: https://www.python.org/downloads/
+2- Open Command Prompt
+3- Type in "cd" then where your files is stored for example: C:\Users\YOURUSER\Desktop\Nitro\Nitro Generator
+   You Can Change "YOURUSER" into your windows user.(If you have stored the file on desktop)
+
+4- copy paste in: "pip install -r requirements.txt" into cmd.
+5- Finally Run The Python File "main.py" by double clicking on it.
+6- Enjoy!
